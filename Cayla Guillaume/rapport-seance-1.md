@@ -1,1 +1,1 @@
-
+Durant cette première séance, de mon côté j’ai d'abord essayé de comprendre le fonctionnement d’un moteur utilisé pour les voitures. Pour cela on nous a mis à disposition un moteur DC et un servomoteur. On a remarqué que notre moteur n’avait qu’un fil, il a donc fallu qu’on apprenne à utiliser la machine à soudure afin de régler ce petit problème (photo moteur avec le fil soudé). On a dû par la suite tester les caractéristiques de chacun d’eux à l’aide du générateur. 
