@@ -1,1 +1,1 @@
-
+Lors de cette séance avec Guillaume on s'est principalement occupé de la construction du robot. Nous avons trouver deux planche avec une dimension de 25cmx30cm (que l'on peut réduire si cela est trop grand. Ensuite Guillaume à utilisé une perceuse pour troué les deux planches. De mon côté je modélisait une pièce qui permettra de mettre en lien le moteur D/C avec les roues arrière. Avec Guillaume 
