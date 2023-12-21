@@ -1,0 +1,1 @@
+On a commencé par demander du matériel pour pouvoir enboîter les deux plaques qui constitueront le la base du robot.On nous a conseillé les entretoises. On a finalement vu que de la tige filetée était plus adéquat pour relier les deux bases.
