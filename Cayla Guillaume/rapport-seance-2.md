@@ -4,5 +4,5 @@ On a commencé par demander du matériel pour pouvoir enboîter les deux plaques
 j'ai rejoint Hussein sur son occupation à savoir : modéliser la pièce qui permettrait de relier le moteur DC avec les roues
 ![Capture d'écran 2023-12-21 133305](https://github.com/hbtounes/projet-Arduino-Bentounes-Cayla/assets/134288995/1f725ce7-5231-4b98-a59b-72a6f9a9d48d)
 
-Durant cette séance, j'ai plutôt bien respecté le diagramme de Gantt qu'on avait préparé au préalable durant la première séance.![Capture d'écran 2023-12-21 1815346](https://github.com/hbtounes/projet-Arduino-Bentounes-Cayla/assets/134288995/c87576b3-c297-4751-b4c1-8dc33764c4b4)
-
+Durant cette séance, j'ai plutôt bien respecté le diagramme de Gantt qu'on avait préparé au préalable durant la première séance.
+![image](https://github.com/hbtounes/projet-Arduino-Bentounes-Cayla/assets/134288995/9e630e2c-b3e1-4ffa-8e71-07fda276e422)
