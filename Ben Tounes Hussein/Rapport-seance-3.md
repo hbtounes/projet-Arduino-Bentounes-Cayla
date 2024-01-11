@@ -14,5 +14,6 @@ Sinon j'ai travailler sur des pièces ,que j'assemblerait la semaine prochaine o
 
 Pour cette séance je n'ai pas entièrement respecter notre planning parcque j'était sensé ,à côté de la modélisation, commencer le code ou au moins regarder ce que je devait écrire. Malgrès cela, pendant les vacances j'ai profité de voir sur internet ce qui pourrait être fait au niveau du code afin de m'inspirer pour notre projet. Je suppose que cela est dû au temps d'attente pour imprimer puis recuperer sa pièce.
 <img width="501" alt="Screenshot 2024-01-11 at 21 26 35" src="https://github.com/hbtounes/projet-Arduino-Bentounes-Cayla/assets/133774851/c60e2288-9faf-4005-9cf7-1fa4bbe6fe80">
+
 Je ferais de mon mieux de profiter des ressources fournies en dehors des heures de séance de cours afin de faire avancer le projet.
 
