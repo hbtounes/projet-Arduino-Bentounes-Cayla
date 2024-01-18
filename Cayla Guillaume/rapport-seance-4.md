@@ -15,3 +15,6 @@ J'ai un peu modifié le code de la semaine dernière en y ajoutant le nécessair
 Les deux intervenannts lors de cette séance nous ont posé quelques questions par rapport à la suite de notre projet. Suite à ces dernières, on a pris la décsion d'abandonner le controle bluetooth via le gant et on s'est plutôt rabattu sur un controle via le téléphone grâce à une application. Ce changement soudain est dû à la complexité de la conception de ce gant. C'est égalament à partir de cette séance qu'on a décidé de travailler en dehors des créneaux hebdomadaires imposés et de consacrer plus de temps à ce projet si l'on veut aller au bout de nos attente et en être fier.
 
 Fianelement durant cette séance n°5, je n'ai pas completement respcté le diagramme de Gantt. Cela prouve qu'il va falloir passer la vitesse supérieur et s'organiser un peu mieux avec mon collègue Hussein.
+
+![image](https://github.com/hbtounes/projet-Arduino-Bentounes-Cayla/assets/134288995/f62e0776-383b-4069-80b2-55ee12c277e6)
+
