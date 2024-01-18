@@ -1,1 +1,2 @@
-
+Durant cette 4ème séance, je savais directement ce que je devais faire à savoir finaliser la partie moteur + pont en H et aider Hussein sur la partie modélisation 3D
+De plus, avec Hussein on a décidé de pas mettre 1 moteur DC pour l'entièreté de la voiture mais 2 moteurs DC car en effet, on a remarqué que 1 moteur n'est pas assez suffisant en terme de puissance pour notre projet. On sait de plus que le pont en h peut connecter deux moteurs donc c'est ce qu'on a fait.
