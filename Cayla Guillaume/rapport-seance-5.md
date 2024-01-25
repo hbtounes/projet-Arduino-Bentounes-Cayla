@@ -10,5 +10,13 @@ L'image ci-dessus représente bien la situation. Il a donc fallu détacher tout 
 
 De plus, il fallait que je me penche sur le système d'interrupteur  car en effet, cela permettra de faire démarrer et d'arrêter la voiture. Pour cela, j'ai commencé à regarder des projets des années précédentes afin de m'inspirer des branchements car certains projets sont similaires au notre.
 
-![image](https://github.com/hbtounes/projet-Arduino-Bentounes-Cayla/assets/134288995/a3320140-68b9-41dc-a277-42f7fe7baa7c)
+![image](https://github.com/hbtounes/projet-Arduino-Bentounes-Cayla/assets/134288995/95902ad7-ab3a-4156-bfbb-6139fc465967)
+
+Puisque je n'ai pas trop eu le temps de m'informer sur ce sujet, ce sera le premier point que je vais aborder lors de la prochaine séance.
+
+Je pense avoir respecté le diagramme de Gantt cette semaine.
+
+![image](https://github.com/hbtounes/projet-Arduino-Bentounes-Cayla/assets/134288995/0d03b997-5842-4ce1-a070-95ab9598bdb1)
+
+
 
