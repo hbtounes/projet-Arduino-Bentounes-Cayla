@@ -1,0 +1,1 @@
+Durant cette séance, il aurait fallu que je commence à m'intéresser à la partie bluetooth de notre projet. Mais suite à beaucoup d'imprévus, cet objectif sera reporté à la semaine prochaine. En effet, durant cette 6ème séance, je me suis remis sur la partie branchement de la voiture
