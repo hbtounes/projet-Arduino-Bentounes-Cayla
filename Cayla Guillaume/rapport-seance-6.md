@@ -10,4 +10,6 @@ Après avoir réussi cela, j'ai commecé à me remémorer le cablage et le code 
 
 Finalement cette séance aura été plutôt frustrante pour ma part parce que je n'ai pas réussi ce que je voulais et cela nous met forcément mon coéquipier et moi en retard. Pour palier à ce retard, nous allons travaillé en dehors des séances hebdomadaire et avancer un maximum sur ce projet qui nous tient à coeur.
 
+Finalement je n'ai pas bien respecté le diagramme de Gantt cette séance.
+
 
