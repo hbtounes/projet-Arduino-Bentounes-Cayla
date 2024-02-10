@@ -8,6 +8,8 @@ Après avoir réussi cela, j'ai commecé à me remémorer le cablage et le code 
 
 ![image](https://github.com/hbtounes/projet-Arduino-Bentounes-Cayla/assets/134288995/f4f1ae36-7a93-4e3f-b80f-fa35e1270649)
 
+Pendant une bonne trentaine de minutes, on a expliqué d'une part notre projet à des lycéens (c'est-à-dire les difficulutés rencontrées, les idées, la manipulation, le code...) et d'autre part, on les a aiguillé dans tout ce qui est orientation et inquétudes de leur part concernant les spécialités. 
+
 Finalement cette séance aura été plutôt frustrante pour ma part parce que je n'ai pas réussi ce que je voulais et cela nous met forcément mon coéquipier et moi en retard. Pour palier à ce retard, nous allons travaillé en dehors des séances hebdomadaire et avancer un maximum sur ce projet qui nous tient à coeur.
 
 Finalement je n'ai pas bien respecté le diagramme de Gantt cette séance.
