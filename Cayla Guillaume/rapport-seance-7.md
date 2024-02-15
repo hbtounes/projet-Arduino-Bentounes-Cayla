@@ -12,3 +12,16 @@ On peut voir dans le code ci-dessus la création de deux variables : un "int" (P
 ![image](https://github.com/hbtounes/projet-Arduino-Bentounes-Cayla/assets/134288995/ba748704-b318-41dc-a5b8-e65fdcc31454)
 
 Cette même lettre va être stocké dans la variable DATA et on pourra créer les premières conditions pour que la voiture tourne à droite. Ensuite je n'ai plus qu'a coder l'action de tourner les roues avant et voilà le tour est joué !
+
+![image](https://github.com/hbtounes/projet-Arduino-Bentounes-Cayla/assets/134288995/d7c4efa7-06ff-4a34-9450-9a692627b203)
+
+Maintenant, par rapport à la variable "int", cette dernière va servir à stocker la valeur que l'on va choisir avec l'application. Par exemple, dans mon interface de l'application, j'ai un curseur qui renvoi une variable lorsqu'on le bouge vers la droite ou vers la gauche. Je passe ensuite cette variable dans les paramètres de la méthode qui sert à faire avancer plus ou moins les roues arrières. Tout cela pour faire en sorte qu'on puisse contrôler les roues arrières à volonté. 
+
+![image](https://github.com/hbtounes/projet-Arduino-Bentounes-Cayla/assets/134288995/19aeed56-0d7e-437d-a344-7b8d83e48b80)
+
+Finalement j'ai eu un peu de mal à faire fonctionner les moteurs DC à l'aide du bluetooth. Il y a encore un souci que je n'arrive pas encore à résoudre. Mais j'ai tout de même réussi à controler le servomoteur qui va permettre de faire tourner les deux roues avant de la voiture.
+
+Finalement je pense avoir plus ou moins respecté le diagramme de Gantt : 
+
+![image](https://github.com/hbtounes/projet-Arduino-Bentounes-Cayla/assets/134288995/436d10e3-1085-47ee-8983-4a92e5af122d)
+
