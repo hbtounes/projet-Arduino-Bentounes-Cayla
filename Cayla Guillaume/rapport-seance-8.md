@@ -20,3 +20,8 @@ Par rapport au brannchement concernant le moteur pas à pas, le voici :
 
 On a vu dans la documentation de Pascal Masson que le moteur pas à pas nécessitait un driver A4988. En effet ce driver permet un contrôle très simple du moteur pas à pas. Ce montage nécessite une capacité de découplage pour l’alimentation du
 moteur afin de lisser les appels de courant des bobines
+
+Finalement je pense avoir plutot bien respecté le diagramme de Gantt : 
+
+![image](https://github.com/hbtounes/projet-Arduino-Bentounes-Cayla/assets/134288995/f3dd2ae9-c3aa-4341-8b14-788adc8509a6)
+
