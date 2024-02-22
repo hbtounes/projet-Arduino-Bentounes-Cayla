@@ -11,3 +11,12 @@ De plus, durant cette séance, avec mon collègue Hussein, on a finalement réus
 ![image](https://github.com/hbtounes/projet-Arduino-Bentounes-Cayla/assets/134288995/6b596f5a-e23a-4f58-99c8-d1d18a448135)
 
 Sur ces 3 boutons, l'un permet de le faire tourner dans le sens des aiguilles d'une montre, le second dans l'autre sens et enfin le dernier permet d'arrêter la rotation.
+Par rapport au brannchement concernant le moteur pas à pas, le voici : 
+
+![image](https://github.com/hbtounes/projet-Arduino-Bentounes-Cayla/assets/134288995/65d19246-c290-45e8-994e-8cb290231bb6)
+
+![image](https://github.com/hbtounes/projet-Arduino-Bentounes-Cayla/assets/134288995/a815bdce-61e2-4197-9b76-142bb7786f73)
+
+
+On a vu dans la documentation de Pascal Masson que le moteur pas à pas nécessitait un driver A4988. En effet ce driver permet un contrôle très simple du moteur pas à pas. Ce montage nécessite une capacité de découplage pour l’alimentation du
+moteur afin de lisser les appels de courant des bobines
