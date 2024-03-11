@@ -76,41 +76,29 @@ void loop() {
     Serial.println("totoÉ");
     DATA = BT.read();
     Serial.println(myservo.read());
-    //tourner à gauche
     if (DATA=='H'){
       PWM=BT.parseInt();
-
-
       myservo.write(110);
       delay(100);
       myservo.write(120);
-     
-
       delay(30);
     }
-    //tourner à droite
+
     if (DATA=='T'){
       PWM=BT.parseInt();
-   
-      
-
       myservo.write(80);
-  
       delay(100);
       myservo.write(70);
-
       delay(30);
     }
 
-    //recentrer
+
     if (DATA=='U'){
       PWM=BT.parseInt();
-      
         myservo.write(100);
         delay(30);
-        
       }
-    //acceleration et recul
+
     if (DATA=='D'){
          tourneHoraire(ena,in1,in2);
          tourneHoraire(enb,in3,in4);
@@ -121,18 +109,15 @@ void loop() {
         tourneAntiHoraire(enb,in3,in4);
         delay(20);
       }
-      //Arrêt des moteurs arrière
-       if (DATA=='S'){
+    if (DATA=='S'){
          STOP(ena,in1,in2);
          STOP(enb,in3,in4);
         delay(20);
       }
-    //contrôler la pince
+
     if (DATA == 'A'){
         PWM1 =BT.parseInt();
       if((pos1 != PWM1)&&(PWM1 !=0)){
-    
-   
         pince.write(PWM1);
         delay(100);
         pos1 = PWM1;}
@@ -140,15 +125,12 @@ void loop() {
         pince.write(pos1);
       }
     }
-    //contrôler la rotation de la pince
+    
     if (DATA == 'B'){
         PWM2 =BT.parseInt();
       if((pos2 != PWM2)&&(PWM2 !=0)){
-    
-   
         rotation.write(PWM2);
         delay(100);
-        
         pos2 = PWM2;}
       else{
         rotation.write(pos2);
@@ -160,6 +142,4 @@ void loop() {
       
   } 
   }
-  // put your main code here, to run repeatedly:
-
-
+  
